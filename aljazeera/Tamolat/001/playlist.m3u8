@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-0",NAME="en (Main)",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://raw.githubusercontent.com/MassinDV/replay/main/aljazeera/Tamolat/001/audio/rendition.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=599500,CODECS="mp4a.40.2,avc1.420015",RESOLUTION=480x270,AUDIO="audio-1",CLOSED-CAPTIONS=NONE
-https://raw.githubusercontent.com/MassinDV/replay/main/aljazeera/Tamolat/001/video/rendition-720.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2297900,CODECS="mp4a.40.2,avc1.4d001f",RESOLUTION=1280x720,AUDIO="audio-1",CLOSED-CAPTIONS=NONE
-https://raw.githubusercontent.com/MassinDV/replay/main/aljazeera/Tamolat/001/video/rendition-720.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4492400,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,AUDIO="audio-1",CLOSED-CAPTIONS=NONE
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/MassinDV/replay/main/aljazeera/Tamolat/001/audio/rendition.m3u8",GROUP-ID="audio",LANGUAGE="en",NAME="ENGLISH",AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=486475,AVERAGE-BANDWIDTH=352930,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,AUDIO="audio"
 https://raw.githubusercontent.com/MassinDV/replay/main/aljazeera/Tamolat/001/video/rendition.m3u8
