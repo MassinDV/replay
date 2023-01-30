@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Al Aoula">
+    <display-name lang="ar">Al Aoula</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Al Aoula Laayoune">
+    <display-name lang="ar">Al Aoula Laayoune</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Arriadia">
+    <display-name lang="ar">Arriadia</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Arrabiaa">
+    <display-name lang="ar">Arrabiaa</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Al Maghribia">
+    <display-name lang="ar">Al Maghribia</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Assadissa ">
+    <display-name lang="ar">Assadissa </display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Aflam 7">
+    <display-name lang="ar">Aflam 7</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Tamazight TV">
+    <display-name lang="ar">Tamazight TV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="2m Monde">
+    <display-name lang="ar">2m Monde</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Chada TV">
+    <display-name lang="ar">Chada TV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="M24 TV">
+    <display-name lang="ar">M24 TV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Tele Maroc ">
+    <display-name lang="ar">Tele Maroc </display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Medi1 Maghreb">
+    <display-name lang="ar">Medi1 Maghreb</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Universal TV">
+    <display-name lang="ar">Universal TV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="ar">TNT</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="ar">Warner Channel</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="ar">Sony</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="ar">AXN</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="ar">E!</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="ar">FOX Sports</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="ar">Syfy</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="ar">A&amp;E</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="ar">Space</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="ar">ESPN</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="ar">Discovery Channel</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="ar">National Geographic</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Investigation Discovery">
+    <display-name lang="ar">Investigation Discovery</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="ar">History</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="ar">Disney Channel</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="ar">Cartoon Network</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="ar">Discovery Kids</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name lang="ar">Cartoonito</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="ar">MTV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="ar">VH1</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="ar">AMC</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Hits">
+    <display-name lang="ar">Star Hits</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="ar">Cinemax</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="ar">HBO</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="ar">TVE</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="CNN en Español">
+    <display-name lang="ar">CNN en Español</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TLNovelas">
+    <display-name lang="ar">TLNovelas</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="ar">AMC HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="ar">Animal Planet</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Az Corazón">
+    <display-name lang="ar">Az Corazón</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Bandamax">
+    <display-name lang="ar">Bandamax</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="ar">CNN</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Canal 22">
+    <display-name lang="ar">Canal 22</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Canal 44 - udgtv">
+    <display-name lang="ar">Canal 44 - udgtv</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Canal 5 Galavision">
+    <display-name lang="ar">Canal 5 Galavision</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Canal 5 HD">
+    <display-name lang="ar">Canal 5 HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Canal NU">
+    <display-name lang="ar">Canal NU</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Cine Mexicano">
+    <display-name lang="ar">Cine Mexicano</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Cinecanal">
+    <display-name lang="ar">Cinecanal</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Cinecanal HD">
+    <display-name lang="ar">Cinecanal HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="ar">Comedy Central</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="De Película">
+    <display-name lang="ar">De Película</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="De Película HD">
+    <display-name lang="ar">De Película HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="ar">Discovery HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="ar">Discovery Home &amp; Health</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="ar">Discovery Theater</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="ar">Discovery World</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="ar">Disney Junior</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="ar">Disney XD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Distrito Comedia">
+    <display-name lang="ar">Distrito Comedia</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="ar">ESPN 2</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="ar">ESPN 3</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="ar">ESPN HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="ESPN+ HD">
+    <display-name lang="ar">ESPN+ HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="El Financiero Bloomberg">
+    <display-name lang="ar">El Financiero Bloomberg</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="El Gourmet">
+    <display-name lang="ar">El Gourmet</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Europa Europa">
+    <display-name lang="ar">Europa Europa</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="FOX Sports 2">
+    <display-name lang="ar">FOX Sports 2</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="FOX Sports 3">
+    <display-name lang="ar">FOX Sports 3</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="ar">FX</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="FX Moviar">
+    <display-name lang="ar">FX Movies</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Glitz">
+    <display-name lang="ar">Glitz</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Golden">
+    <display-name lang="ar">Golden</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Golden Edge">
+    <display-name lang="ar">Golden Edge</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ar">HBO 2</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="ar">HBO Family</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="ar">HBO HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="ar">HBO Mundi</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="HBO Plus México">
+    <display-name lang="ar">HBO Plus México</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="ar">History HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="I-SAT">
+    <display-name lang="ar">I-SAT</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Max Prime México">
+    <display-name lang="ar">Max Prime México</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Milenio TV">
+    <display-name lang="ar">Milenio TV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="MuchMusic">
+    <display-name lang="ar">MuchMusic</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Más Chic">
+    <display-name lang="ar">Más Chic</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Nick">
+    <display-name lang="ar">Nick</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Nick 2">
+    <display-name lang="ar">Nick 2</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="ar">Nick Jr.</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Platino">
+    <display-name lang="ar">Platino</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="RMS">
+    <display-name lang="ar">RMS</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Russia Today HD">
+    <display-name lang="ar">Russia Today HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="ar">Sony HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Action HD">
+    <display-name lang="ar">Star Action HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Channel HD">
+    <display-name lang="ar">Star Channel HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Comedy HD">
+    <display-name lang="ar">Star Comedy HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Fun">
+    <display-name lang="ar">Star Fun</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Fun (Oeste)">
+    <display-name lang="ar">Star Fun (Oeste)</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Fun HD">
+    <display-name lang="ar">Star Fun HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Hits HD">
+    <display-name lang="ar">Star Hits HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Life">
+    <display-name lang="ar">Star Life</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Series (Oeste)">
+    <display-name lang="ar">Star Series (Oeste)</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Star Series HD">
+    <display-name lang="ar">Star Series HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="ar">Studio Universal</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="ar">TBS</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="ar">TCM</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TDN">
+    <display-name lang="ar">TDN</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TDN HD">
+    <display-name lang="ar">TDN HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TIIN">
+    <display-name lang="ar">TIIN</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="ar">TNT HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Telehit">
+    <display-name lang="ar">Telehit</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Telemundo">
+    <display-name lang="ar">Telemundo</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="ar">Tooncast</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="ar">TruTV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="Univision">
+    <display-name lang="ar">Univision</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="WOBI TV">
+    <display-name lang="ar">WOBI TV</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="film&amp;arts">
+    <display-name lang="ar">film&amp;arts</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+  <channel id="truTV HD">
+    <display-name lang="ar">truTV HD</display-name>
+    <url>http://www.snrt.ma</url>
+  </channel>
+</tv>
